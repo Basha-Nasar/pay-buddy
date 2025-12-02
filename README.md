@@ -1,4 +1,3 @@
-```markdown
 # PayBuddy
 
 **PayBuddy** is a lightweight payment manager library built on [Yii2](https://www.yiiframework.com/).  
@@ -61,6 +60,7 @@ echo $payBuddy->processPayment(100, 'USD');
 ```
 
 Output:
+
 ```
 Payment of 100 USD processed successfully.
 ```
@@ -127,13 +127,14 @@ This project is licensed under the [MIT License](LICENSE).
 
 - **NasarBashaG**  
   Developer of PayBuddy  
-  Email: your-email@example.com
+  Email: <your-email@example.com>
 
 ---
 
 ## 🌟 Contributing
 
 Contributions are welcome!  
+
 1. Fork the repository  
 2. Create a feature branch (`git checkout -b feature/my-feature`)  
 3. Commit changes (`git commit -m "Add my feature"`)  
@@ -145,6 +146,7 @@ Contributions are welcome!
 ## 📦 Versioning
 
 We use [Semantic Versioning](https://semver.org/).  
+
 - `MAJOR` version for incompatible API changes  
 - `MINOR` version for new functionality in a backwards-compatible manner  
 - `PATCH` version for backwards-compatible bug fixes  
