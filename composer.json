@@ -1,0 +1,22 @@
+{
+    "name": "basha-nasar/pay-buddy",
+    "description": "A payment manager library built on Yii2",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "yiisoft/yii2": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "BashaNasar\\PayBuddy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NasarBashaG",
+            "email": "your-email@example.com",
+            "role": "Developer"
+        }
+    ]
+}
